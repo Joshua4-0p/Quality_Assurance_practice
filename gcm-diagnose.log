@@ -1,0 +1,230 @@
+﻿Diagnose log at 2024-11-06T15:35:38Z
+
+AppPath: D:\Program files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: D:\Program files\Git\mingw64\bin\
+Version: 2.4.1
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 22000)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\Fotseu Josue
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=DESKTOP-MSI6FA0
+GIT_TRACE2_PARENT_SID=0ac0faf7-5d20-4578-869c-720acaf5e69b
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+PROCESSOR_LEVEL=6
+OneDrive=C:\Users\Fotseu Josue\OneDrive
+VSCODE_ENV_REPLACE=PROMPT=(my_venv) $P$G:VIRTUAL_ENV=C\x3a\Users\Fotseu Josue\Desktop\Quality_Assurance_practice\my_venv:VIRTUAL_ENV_PROMPT=(my_venv) :_OLD_VIRTUAL_PROMPT=$P$G
+ALEXANDRIA_PORT_APP=3000
+VIRTUAL_ENV=C:\Users\Fotseu Josue\Desktop\Quality_Assurance_practice\my_venv
+TMP=C:\Users\FOTSEU~1\AppData\Local\Temp
+PROCESSOR_REVISION=4e03
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+GIT_ASKPASS=c:\Users\Fotseu Josue\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh
+GIT_EXEC_PATH=D:/Program files/Git/mingw64/libexec/git-core
+TEMP=C:\Users\FOTSEU~1\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\Fotseu Josue\AppData\Local
+MSYSTEM=MINGW64
+TERM=xterm-256color
+VIRTUAL_ENV_PROMPT=(my_venv) 
+ProgramW6432=C:\Program Files
+windir=C:\Windows
+JAVA_HOME=C:\Program Files\Java\jdk-22
+USERDOMAIN=DESKTOP-MSI6FA0
+ProgramFiles(x86)=C:\Program Files (x86)
+Path=D:/Program files/Git/mingw64/libexec/git-core;D:\Program files\Git\mingw64\bin;D:\Program files\Git\usr\bin;C:\Users\Fotseu Josue\bin;C:\Users\Fotseu Josue\Desktop\Quality_Assurance_practice\my_venv\Scripts;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\msys64\ucrt64\bin;C:\Program Files\Microchip\xc8\v2.45\bin;D:\Program files\Git\cmd;C:\xampp\php;C:\Program Files\Java\jdk-22\bin;D:\Program files\nodejs\;C:\Program Files\MATLAB\R2018a\runtime\win64;C:\Program Files\MATLAB\R2018a\bin;C:\Users\Fotseu Josue\AppData\Local\Microsoft\WindowsApps;D:\Program files\JetBrains\PyCharm Community Edition 2024.2.1\bin;C:\Users\Fotseu Josue\AppData\Local\GitHubDesktop\bin;C:\php;C:\Users\Fotseu Josue\AppData\Roaming\npm;C:\Users\Fotseu Josue\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\msys64\ucrt64\bin;C:\Program Files\Microchip\xc8\v2.45\bin;D:\Program files\Git\cmd;C:\xampp\php;C:\Program Files\Java\jdk-22\bin;D:\Program files\nodejs\;C:\Program Files\MATLAB\R2018a\runtime\win64;C:\Program Files\MATLAB\R2018a\bin;C:\Users\Fotseu Josue\AppData\Local\Microsoft\WindowsApps;D:\Program files\JetBrains\PyCharm Community Edition 2024.2.1\bin;C:\Users\Fotseu Josue\AppData\Local\GitHubDesktop\bin;C:\php;C:\Users\Fotseu Josue\AppData\Roaming\npm;C:\Users\Fotseu Josue\AppData\Local\Programs\Microsoft VS Code\bin
+ALEXANDRIA_PORT_LOOKUP=3001
+TERM_PROGRAM=vscode
+PyCharm Community Edition=D:\Program files\JetBrains\PyCharm Community Edition 2024.2.1\bin;
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+TMPDIR=C:\Users\FOTSEU~1\AppData\Local\Temp
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+PROMPT=(my_venv) $P$G
+TERM_PROGRAM_VERSION=1.95.1
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\Fotseu Josue\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js
+PSModulePath=%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+NUMBER_OF_PROCESSORS=4
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-ddcd8e251f-sock
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_22188_XMYHAOULCVNIEGMK
+PLINK_PROTOCOL=ssh
+ProgramData=C:\ProgramData
+MSYS=enable_pcon
+ProgramFiles=C:\Program Files (x86)
+VSCODE_GIT_ASKPASS_NODE=C:\Users\Fotseu Josue\AppData\Local\Programs\Microsoft VS Code\Code.exe
+SystemRoot=C:\Windows
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+ALEXANDRIA_PORT_VIEWER=3002
+HOME=C:\Users\Fotseu Josue
+_OLD_VIRTUAL_PROMPT=$P$G
+CommonProgramW6432=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+LOGONSERVER=\\DESKTOP-MSI6FA0
+USERPROFILE=C:\Users\Fotseu Josue
+COLORTERM=truecolor
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-MSI6FA0
+APPDATA=C:\Users\Fotseu Josue\AppData\Roaming
+HOMEDRIVE=C:
+VSCODE_ENV_PREPEND=PATH=C\x3a\Users\Fotseu Josue\Desktop\Quality_Assurance_practice\my_venv\Scripts;C\x3a\Program Files\Python312\Scripts\;C\x3a\Program Files\Python312\;C\x3a\Program Files (x86)\VMware\VMware Player\bin\;C\x3a\Program Files\Common Files\Oracle\Java\javapath;C\x3a\Program Files (x86)\Common Files\Oracle\Java\javapath;C\x3a\Windows\system32;C\x3a\Windows;C\x3a\Windows\System32\Wbem;C\x3a\Windows\System32\WindowsPowerShell\v1.0\;C\x3a\Windows\System32\OpenSSH\;C\x3a\msys64\ucrt64\bin;C\x3a\Program Files\Microchip\xc8\v2.45\bin;D\x3a\Program files\Git\cmd;C\x3a\xampp\php;C\x3a\Program Files\Java\jdk-22\bin;D\x3a\Program files\nodejs\;C\x3a\Program Files\MATLAB\R2018a\runtime\win64;C\x3a\Program Files\MATLAB\R2018a\bin;C\x3a\Users\Fotseu Josue\AppData\Local\Microsoft\WindowsApps;D\x3a\Program files\JetBrains\PyCharm Community Edition 2024.2.1\bin;C\x3a\Users\Fotseu Josue\AppData\Local\GitHubDesktop\bin;C\x3a\php;C\x3a\Users\Fotseu Josue\AppData\Roaming\npm;C\x3a\Users\Fotseu Josue\AppData\Local\Programs\Microsoft VS Code\bin;
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+USERNAME=Fotseu Josue
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\Windows\system32\cmd.exe
+SystemDrive=C:
+PT8HOME=C:\Program Files\Cisco Packet Tracer 8.2.2
+LANG=en_US.UTF-8
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\Fotseu Josue\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\Fotseu Josue\AppData\Local\Temp\8d904e749314063916315037'... OK
+Reading from temporary file 'C:\Users\Fotseu Josue\AppData\Local\Temp\8d904e749314063916315037'... OK
+Deleting temporary file 'C:\Users\Fotseu Josue\AppData\Local\Temp\8d904e749314063916315037'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\Fotseu Josue
+UserDataDirectoryPath: C:\Users\Fotseu Josue\.gcm
+GetCurrentDirectory(): C:\Users\Fotseu Josue\Desktop\Quality_Assurance_practice
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: False
+Exception:
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: The underlying connection was closed: An unexpected error occurred on a send. ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.TlsStream.EndWrite(IAsyncResult asyncResult)
+   at System.Net.PooledStream.EndWrite(IAsyncResult asyncResult)
+   at System.Net.ConnectStream.WriteHeadersCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at GitCredentialManager.Diagnostics.NetworkingDiagnostic.<RunInternalAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at GitCredentialManager.Diagnostics.Diagnostic.<RunAsync>d__6.MoveNext()
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... warning: HEAD request failed
+Sending HEAD request to http://httpforever.com...
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.43.0.windows.1'
+Locating current repository... OK
+Git repository at 'C:/Users/Fotseu Josue/Desktop/Quality_Assurance_practice/.git'
+Listing all Git configuration... OK
+Git configuration:
+file:D:/Program files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:D:/Program files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:D:/Program files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:D:/Program files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:D:/Program files/Git/etc/gitconfig	filter.lfs.required=true
+file:D:/Program files/Git/etc/gitconfig	http.sslbackend=openssl
+file:D:/Program files/Git/etc/gitconfig	http.sslcainfo=D:/Program files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:D:/Program files/Git/etc/gitconfig	core.autocrlf=true
+file:D:/Program files/Git/etc/gitconfig	core.fscache=true
+file:D:/Program files/Git/etc/gitconfig	core.symlinks=false
+file:D:/Program files/Git/etc/gitconfig	core.fsmonitor=true
+file:D:/Program files/Git/etc/gitconfig	pull.rebase=false
+file:D:/Program files/Git/etc/gitconfig	credential.helper=manager
+file:D:/Program files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:D:/Program files/Git/etc/gitconfig	init.defaultbranch=main
+file:C:/Users/Fotseu Josue/.gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/Fotseu Josue/.gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/Fotseu Josue/.gitconfig	filter.lfs.required=true
+file:C:/Users/Fotseu Josue/.gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/Fotseu Josue/.gitconfig	user.name=Joshua4-0p
+file:C:/Users/Fotseu Josue/.gitconfig	user.email=josuefotseu02@gmail.com
+file:C:/Users/Fotseu Josue/.gitconfig	core.editor="C:\Users\Fotseu Josue\AppData\Local\Programs\Microsoft VS Code\bin\code" --wait
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/Joshua4-0p/Quality_Assurance_practice.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\Fotseu Josue\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\Fotseu Josue\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: False
+Exception:
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at GitHub.GitHubRestApi.<GetMetaInfoAsync>d__5.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at GitHub.Diagnostics.GitHubApiDiagnostic.<RunInternalAsync>d__2.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at GitCredentialManager.Diagnostics.Diagnostic.<RunAsync>d__6.MoveNext()
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint...
